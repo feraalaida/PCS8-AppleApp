@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppleApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="ic_favorite">Favorite</string>
+    <string name="ic_home">Home</string>
+    <string name="ic_manga">Manga</string>
+    <string name="ic_profile">Profile</string>
+</resources>
